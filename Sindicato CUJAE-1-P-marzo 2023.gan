@@ -186,6 +186,7 @@
                 </task>
             </task>
         </task>
+        <task id="241" name="tarea_241" meeting="false" start="2022-12-01" duration="1" complete="0" expand="true"/>
         <task id="91" name="Gestión de configuración" meeting="false" start="2023-03-20" duration="5" complete="0" expand="true">
             <depend id="81" type="2" difference="0" hardness="Strong"/>
             <task id="93" name="•&#9;Identificar los elementos que estarán sujetos a control de versiones y cambio en sus prelctos." color="#ffccff" meeting="false" start="2023-03-20" duration="1" complete="0" thirdDate="2023-03-20" thirdDate-constraint="0" expand="true"/>
